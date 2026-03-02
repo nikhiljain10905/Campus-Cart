@@ -65,7 +65,7 @@ Open phpMyAdmin.
 Create a database named campuscart.
 
 
-Import the database.sql file provided in the repo.
+Import the campuscart.sql file provided in the repo.
 
 
 Configure Environment:
