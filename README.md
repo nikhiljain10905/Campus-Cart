@@ -1,16 +1,24 @@
-Campus Cart 🛒
+Campus Cart 🛒  
 Campus Cart is a secure, AI-powered C2C marketplace platform designed exclusively for the students of IIITDM Jabalpur. It allows students to buy and sell academic essentials, electronics, and campus gear in a verified and trusted environment.
 
+
 🚀 Key Features
+
+
 AI-Powered Tagging: Integrated Gemini 3 Flash to automatically generate SEO-friendly hashtags and categories based on product descriptions.
 
-Verified Ecosystem: Restricts registration to the @iiitdmj.ac.in domain to ensure a safe, student-only environment.
 
-Secure Authentication: Implements BCRYPT password hashing for robust user data protection.
+Verified Ecosystem: Restricts registration to the @iiitdmj.ac.in domain to ensure a safe, student-only environment.  
 
-Dynamic Listings: Real-time product uploads with image support and status tracking.
 
-Responsive UI: Built with Tailwind CSS for a seamless experience across mobile and desktop.
+Secure Authentication: Implements BCRYPT password hashing for robust user data protection.  
+
+
+Dynamic Listings: Real-time product uploads with image support and status tracking.  
+
+
+Responsive UI: Built with Tailwind CSS for a seamless experience across mobile and desktop.  
+
 
 🛠️ Tech Stack
 
